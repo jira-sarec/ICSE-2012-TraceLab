@@ -8,6 +8,26 @@ This repository _is not_ the original repository for this tool. Here are some li
 * [YouTube Page](https://www.youtube.com/user/coestorg)
 
 In this repository, for TraceLab you will find:
-* :white_check_mark: Source code
+* :white_check_mark: [Source code of components] (https://github.com/SoftwareEngineeringToolDemos/ICSE-2012-TraceLab/tree/master/Main/ComponentsSources)
+* :white_check_mark: [Binaries] (https://github.com/SoftwareEngineeringToolDemos/ICSE-2012-TraceLab/tree/master/Main/bin)
+* 
 
 This repository was constructed by [Peter Chen](https://github.com/pmchen3) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to Jane Cleland-Huang for her help.
+
+
+
+TraceLab
+========
+
+TraceLab - Software Traceability Instrument to Facilitate and Empower Traceability Research and Technology Transfer
+
+To download the latest executable please following these instructions:  
+Main/bin/TraceLabInstaller
+Select "View the full file" -- and hey-presto its there!
+
+For more information please visit the official project site:
+http://coest.org/
+http://coest.org/coest-projects/projects/tracelab
+
+For instructions how to compile (for now please use VisualStudio 2010):
+http://coest.org/coest-projects/projects/tracelab/wiki/Steps_to_compile_TraceLab
