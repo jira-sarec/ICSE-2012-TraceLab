@@ -10,7 +10,6 @@ This repository _is not_ the original repository for this tool. Here are some li
 In this repository, for TraceLab you will find:
 * :white_check_mark: [Source code of components] (https://github.com/SoftwareEngineeringToolDemos/ICSE-2012-TraceLab/tree/master/Main/ComponentsSources)
 * :white_check_mark: [Binaries] (https://github.com/SoftwareEngineeringToolDemos/ICSE-2012-TraceLab/tree/master/Main/bin)
-* 
 
 This repository was constructed by [Peter Chen](https://github.com/pmchen3) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to Jane Cleland-Huang for her help.
 
