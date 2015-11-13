@@ -20,3 +20,4 @@
 #### Acknowledgements
 * Windows base box: [modernIE/w7-ie11] (https://atlas.hashicorp.com/modernIE/boxes/w7-ie11)
 * Chocolatey: [site] (https://chocolatey.org/) and [github install page] (https://github.com/chocolatey/choco/wiki/Installation)
+* [Vagrant documentation] (https://docs.vagrantup.com/v2/)
