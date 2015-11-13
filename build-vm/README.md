@@ -11,10 +11,6 @@
     * [Chocolatey] (https://chocolatey.org/), a package manager for Windows
     * .NET Framework 4.0, which is required for the version of the tool we will be using
 
-####Environment
-* Windows 7 box
-* 
-
 ####Notes
  * Box default credentials
   * Username: IEUser
