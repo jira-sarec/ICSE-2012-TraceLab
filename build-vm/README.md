@@ -12,6 +12,7 @@
     * .NET Framework 4.0, which is required for the version of the tool we will be using
 
 ####Notes
+ * Image license is good until 20JAN2016
  * Box default credentials
   * Username: IEUser
   * Password: Passw0rd!
