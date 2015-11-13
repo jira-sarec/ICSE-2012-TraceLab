@@ -5,7 +5,7 @@
  2. Download the *build-vm* folder or Clone [this repository] (https://github.com/SoftwareEngineeringToolDemos/ICSE-2012-TraceLab)
  3. Navigate to the *build-vm* folder in command prompt
  4. Run *vagrant up* to boot the VM
-  1. The base box will take time to downloaded the first time
+  1. The base box will take time to download the first time
   2. A GUI will be loaded
   3. Provision will be run to install software
     * [Chocolatey] (https://chocolatey.org/), a package manager for Windows
