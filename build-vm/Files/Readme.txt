@@ -35,4 +35,4 @@ error occurred, the corresponding component will turn red.
  
 To see an example experiment, open this file: C:\Program Files\COEST\TraceLab\Tutorials\First experiment\VectorSpaceStandardExperiment.teml 
  
-For more tutorial information, refer to the youtube page: www.youtube.com/user/coestorg
+For more tutorial information, refer to the youtube page: www.youtube.com/user/coestorg 
