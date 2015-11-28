@@ -1,4 +1,4 @@
-﻿To install TraceLab for Windows: 
+To install TraceLab for Windows: 
  
 1. Make sure you have .NET Framework 4 or higher installed. Can download here: https://www.microsoft.com/en-us/download/details.aspx?id=17851 
 2. Go to this link and save the installer file (TraceLab Installer.msi): https://github.com/SoftwareEngineeringToolDemos/ICSE-2012-TraceLab/blob/master/Main/bin/TraceLab%20Installer.msi?raw=true 
