@@ -12,6 +12,7 @@
   4. VM will restart after provisioning and TraceLab will be booted up
 
 ####Notes
+ * Running the script first time will take considerable amount of time to download base box
  * Current Image license is good until 20JAN2016
  * Box default credentials
   * Username: IEUser
