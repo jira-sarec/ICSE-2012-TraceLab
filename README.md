@@ -4,12 +4,14 @@ This repository contains information related to the tool TraceLab presented at t
 
 This repository _is not_ the original repository for this tool. Here are some links to the original project:
 * [Official Project Page](http://www.coest.org/)
-* [Original Project Repository](https://github.com/CoEST/TraceLab)
+* [Original Project Repository With Download](https://github.com/CoEST/TraceLab)
 * [YouTube Page](https://www.youtube.com/user/coestorg)
 
 In this repository, for TraceLab you will find:
+* :white_check_mark: [Source code] (https://github.com/SoftwareEngineeringToolDemos/ICSE-2012-TraceLab/tree/master/Main/TraceLab)
 * :white_check_mark: [Source code of components] (https://github.com/SoftwareEngineeringToolDemos/ICSE-2012-TraceLab/tree/master/Main/ComponentsSources)
 * :white_check_mark: [Binaries] (https://github.com/SoftwareEngineeringToolDemos/ICSE-2012-TraceLab/tree/master/Main/bin)
+* :x: Virtual machine containing tool (not available, Windows box)
 
 This repository was constructed by [Peter Chen](https://github.com/pmchen3) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to Jane Cleland-Huang for her help.
 
